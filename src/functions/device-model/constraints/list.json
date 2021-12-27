@@ -1,0 +1,8 @@
+{
+    "deviceType": {
+      "presence": {
+        "allowEmpty": false
+      },
+      "type": "string"
+    }
+}

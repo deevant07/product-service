@@ -1,0 +1,16 @@
+{
+    "deviceType": {
+      "presence": {
+        "allowEmpty": false
+      },
+      "type": "string"
+    },
+    "version":{
+        "presence": true,
+        "type": "number"
+    },
+    "createdBy": {
+        "type": "string"
+    }
+
+  }

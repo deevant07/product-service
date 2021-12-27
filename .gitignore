@@ -49,6 +49,8 @@ typings/
 
 # Optional npm cache directory
 .npm
+.nvmrc
+.npmignore
 
 # Optional eslint cache
 .eslintcache
@@ -93,6 +95,8 @@ dist
 
 # Serverless directories
 .serverless/
+.webpack/
+.dynamodb/
 
 # FuseBox cache
 .fusebox/

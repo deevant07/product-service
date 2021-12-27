@@ -1,0 +1,5 @@
+{
+    "devModelTable": "device_model",
+    "devModelTableRCU": 1,
+    "devModelTableWCU": 1
+}
